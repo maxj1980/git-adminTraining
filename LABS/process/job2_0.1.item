@@ -101,7 +101,7 @@
   </parameters>
   <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="120" posY="120">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputXML_1" show="false"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/8.0.1/studio/workspace/in.xml&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/StudentFiles/refProducts.csv&quot;"/>
     <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/bills/bill/line&quot;"/>
     <elementParameter field="TABLE" name="MAPPING"/>
     <elementParameter field="TEXT" name="LIMIT" value=""/>
